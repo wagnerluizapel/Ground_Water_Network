@@ -19,8 +19,9 @@ This project analyzes groundwater monitoring points in Queensland, with a focus 
 - Site: https://www.data.qld.gov.au/dataset/hydrology-archive-data/resource/677ab124-9626-4099-b376-2c75d632783f?inner_span=True
 
 ## How to Run
-1. Install the dependencies: `pip install -r streamlit/requirements.txt`.
-2. Run the dashboard: `streamlit run streamlit/dashboard.py`.
+1. Navigate to the streamlit directory: `cd Ground_Water_Network/streamlit/`.
+2. Install the dependencies: `pip install -r requirements.txt`.
+3. Run the dashboard: `streamlit run dashboard.py`.
 
 ## Contact
 Wagner Luiz Apel - wagnerapel@gmail.com | https://www.linkedin.com/in/wagner-luiz-apel/ | https://github.com/wagnerluizapel
